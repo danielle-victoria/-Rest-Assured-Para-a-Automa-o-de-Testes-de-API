@@ -1,14 +1,15 @@
 <h1 align = "center"> Rest Assured Para a Automa o de Testes de API 💻</h1> 
-Desafio de projeto - Explorando o Rest Assured Para a Automação de Testes de API   
+<p align="center">Desafio de projeto - Explorando o Rest Assured Para a Automação de Testes de API<p/>   
 
-Objetivo do projeto   
+<br/>
+Objetivo do projeto:   
 Explorar o framework RestAssured + JUnit e a geração de reports com o Allure Framework, bem como utilizar JsonServer para simular uma API.     
 <br/>
 <b><p align = "center">Conhecendo a API ✅</p></b> 
 
 - Primeira parte: Utilizar o Postman para fazer uma collection usando a API [Restful-booker](https://restful-booker.herokuapp.com/apidoc/index.html)    
 
- <p align = "center">Arquivo: restful-booker API.postman_collection</p>   
+   Arquivo: restful-booker API.postman_collection 
  <br/>
  <b><p align = "center">Automatizando com Rest Assured ✅</p></b>  
                        
